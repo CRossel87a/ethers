@@ -1,0 +1,9 @@
+/target
+.vscode
+/.envrc
+.idea
+.nlsp-settings
+.devenv*
+devenv.local.nix
+.direnv
+.pre-commit-config.yaml
